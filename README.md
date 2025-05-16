@@ -98,5 +98,5 @@ Este proyecto está bajo la licencia MIT - puedes usarlo y modificarlo librement
 
 ## Autor
 
-[Michele Fuentes Flores](https://github.com/mfarquitecto)
+[mfarquitecto](https://github.com/mfarquitecto)
 
